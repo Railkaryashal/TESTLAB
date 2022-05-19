@@ -1,0 +1,35 @@
+div{
+	
+	background: purple;
+	color: white;
+	border-radius:5px; 
+
+} 
+ul li{
+	color: orange;
+	background: black;
+	list-style-type: square;
+}
+p+H1{
+	color: yellow;
+	background: black;
+}
+h2{
+	font-family: verdana;
+}
+a:hover{
+	background-color: black;
+	color: white;
+}
+#web{
+	width: 50%;
+	margin: auto;
+}
+footer { 
+		clear: both;
+		background-color: black;
+		color: aqua;
+}
+p::first-letter{
+	
+}
